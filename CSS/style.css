@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:  hsl(0, 0%, 8%);
+}
+
+.sp-container  {
+    background-color:  hsl(0, 0%, 12%);
+    width: 400px;
+    height: 610px;
+    border-radius: 16px;
+    margin-top: 5rem;
+    margin-bottom: 7rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    display: flexbox;
+    
+   
+}
+
+.avatar-img {
+    text-align: center;
+  
+}
+
+.avatar-img img {
+    border-radius: 100%;
+    max-width: 100px;
+    max-height: 100px;
+    margin-top: 2rem;
+}
+
+h2 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    padding: 0.6rem;
+    padding-top: 1.5rem;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    margin-top: 0;
+
+
+}
+
+.text p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: hsl(0, 0%, 100%);
+    padding-top: 2rem;
+}
+
+.container-github {
+    background-color: hsl(0, 0%, 20%);
+    width: 355px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5rem;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+
+.container-github p {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    padding-top: 0.8rem;
+    text-align: center;
+}
+
+.container-github:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+.container-github p:hover {
+    color: hsl(0, 0%, 8%);
+}
+
+.frontend-mentor {
+    background-color: hsl(0, 0%, 20%);
+    width: 355px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.2rem;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.frontend-mentor p {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    padding-top: 0.9rem;
+    text-align: center;
+}
+
+.frontend-mentor:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+.frontend-mentor p:hover {
+    color: hsl(0, 0%, 8%);
+}
+
+.container-linkedin {
+    background-color: hsl(0, 0%, 20%);
+    width: 355px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.2rem;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.container-linkedin p {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    padding-top: 0.9rem;
+    text-align: center;
+}
+
+.container-linkedin:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+.container-linkedin p:hover {
+    color: hsl(0, 0%, 8%);
+}
+
+.container-twitter {
+    background-color: hsl(0, 0%, 20%);
+    width: 355px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.2rem;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.container-twitter p {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    padding-top: 0.9rem;
+    text-align: center;
+}
+
+.container-twitter:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+.container-twitter p:hover {
+    color: hsl(0, 0%, 8%);
+}
+
+.container-instagram {
+    background-color: hsl(0, 0%, 20%);
+    width: 355px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.2rem;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.container-instagram p {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    padding-top: 0.9rem;
+    text-align: center;
+}
+
+.container-instagram:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+.container-instagram p:hover {
+    color: hsl(0, 0%, 8%);
+}
+
