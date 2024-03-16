@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Frontend Mentor - Página de Receitas</h1>
+    <h1>Frontend Mentor - Social Link Profile</h1>
      <p><a href="https://github.com/hilaryzoia/Frontend-Mentor-Social-Links-Profile">Social Link Profile</a></p> 
     <p>Esse repositório é destinado as minhas soluções dos desafios da plataforma FrontEnd Mentor</p>
     <h2>Olá, Seja Bem Vindo! 👋</h2>
